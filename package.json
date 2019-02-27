@@ -8,6 +8,8 @@
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "random": "^2.1.1",
+    "socket.io": "~0.9.14",
+    "yarn": "^1.13.0"
   }
 }
